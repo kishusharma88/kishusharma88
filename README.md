@@ -14,13 +14,6 @@ I'm a passionate Data Analyst with a background in logistics and customer servic
 - **Software Platforms:** Microsoft 365 Suite, Google Workspace
 - **Soft Skills:** Problem-Solving, Attention to Detail, Project Management
 
-## Current Projects
-
-- **Project 1:** [Link to Project 1]
-  - Brief description of what this project is about.
-- **Project 2:** [Link to Project 2]
-  - Brief description of what this project is about.
-  
 ## What I’m Working On
 
 I'm currently working on a series of projects to enhance my skills in data analytics, including:
